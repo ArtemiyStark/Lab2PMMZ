@@ -1,0 +1,31 @@
+D:\mpl\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\mpl\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\mpl\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+D:\mpl\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+D:\mpl\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App1\App1\obj\Debug\netstandard2.0\App1.pdb
